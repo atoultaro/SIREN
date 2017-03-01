@@ -1,2 +1,2 @@
 # SIREN
-SIREN - a pitch contour measurement tool for bioacoustics 
+SIREN - a pitch contour measurement Matlab tool for bioacoustics 
